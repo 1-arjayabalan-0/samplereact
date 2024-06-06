@@ -39,5 +39,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.tsx",
+  "repository": "https://github.com/1-arjayabalan-0/samplereact.git",
+  "author": "1-arjayabalan-0 <arjayabalan09@gmail.com>",
+  "license": "MIT"
 }
